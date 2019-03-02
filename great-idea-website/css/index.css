@@ -136,6 +136,7 @@ header {
     border: 1px solid black;
     font-size: 25px;
     padding: 15px 60px;
+    text-decoration: none;
 }
 
 #start-button:hover {
